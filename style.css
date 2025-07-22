@@ -123,7 +123,8 @@ body {
 .ubicacion img, 
 .dress img,
 .alberca img,
-.regalos img{
+.regalos img,
+.comida img{
     width: 75px;
     height: 75px;
 }
